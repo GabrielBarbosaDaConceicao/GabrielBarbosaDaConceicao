@@ -10,7 +10,7 @@
 
 💻 Eu sou um desenvolvedor [Back-End]
 
-👩‍💻 Atualmente eu trabalho como [Desenvolvedor .Net Jr] na empresa [[5by5]](https://5by5.com.br/)]
+👩‍💻 Atualmente eu estou em busca de uma nova oportunidade como [Desenvolvedor .Net Jr C#]
 
 **Tecnologias e Ferramentas**
 
